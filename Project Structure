@@ -1,6 +1,5 @@
-## 📂 Project Structure
+📂 Project Structure
 
-```text
 ai-fusion-hub
 │
 ├── .venv
@@ -18,4 +17,3 @@ ai-fusion-hub
 ├── requirements.txt
 ├── sql_agents.py
 └── whisper_test.py
-```
