@@ -1,0 +1,21 @@
+## 📂 Project Structure
+
+```text
+ai-fusion-hub
+│
+├── .venv
+│
+├── data
+│   ├── sqlite
+│   └── vector_store
+│
+├── .env
+├── app.py
+├── audio_utils.py
+├── azure_client.py
+├── azure_test.py
+├── rag_utils.py
+├── requirements.txt
+├── sql_agents.py
+└── whisper_test.py
+```
